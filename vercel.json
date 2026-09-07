@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "smart-water-guardian",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
