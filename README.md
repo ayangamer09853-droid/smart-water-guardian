@@ -1,8 +1,9 @@
 # 💧 Smart Water Guardian (FarmSphere)
 > **AI + IoT Smart Irrigation & Water Conservation Platform**  
-> *Built for NextStep Hacks 2026*
+> *Built for NextStep Hacks 2026*  
+> 🔗 **Live Web App:** [https://ayangamer09853-droid.github.io/smart-water-guardian/](https://ayangamer09853-droid.github.io/smart-water-guardian/)
 
-![Smart Water Guardian Banner](/public/thumbnail.jpg)
+![Smart Water Guardian Banner](public/thumbnail.jpg)
 
 ---
 
